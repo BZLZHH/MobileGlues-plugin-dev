@@ -2,7 +2,7 @@ name: MobileGlues
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, mg-fpe-test ]
   workflow_dispatch:
 
 jobs:
